@@ -1,0 +1,5 @@
+# LCOV configuration file
+genhtml_branch_coverage = 1
+genhtml_function_coverage = 1
+genhtml_no_source = 1
+genhtml_prefix = .

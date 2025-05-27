@@ -1,0 +1,22 @@
+# Coverage configuration file
+# Lines starting with # are comments and are ignored
+
+# Exclude files from coverage
+exclude:
+  - "*.g.dart"
+  - "*.freezed.dart"
+  - "*.mocks.dart"
+  - "**/generated/**"
+  - "**/l10n/**"
+  - "**/test/**"
+  - "**/example/**"
+  - "**/build/**"
+
+# Coverage output format
+format: lcov
+
+# Minimum coverage threshold
+threshold: 85
+
+# Show uncovered lines
+show_uncovered_lines: true
