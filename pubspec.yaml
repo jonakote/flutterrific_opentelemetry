@@ -14,7 +14,7 @@ dependencies:
   dartastic_opentelemetry: ^0.8.1
   dartastic_opentelemetry_api: ^0.8.0
   #TODO - need to manage go_router dependency versions and no-go-router implementation
-  go_router: ^16.2.0
+  go_router: ^15.1.2
   meta: ^1.16.0
   uuid: ^4.5.1
   web: ^1.1.1
